@@ -66,4 +66,16 @@ python3 somoy-tv.py > ../streams/somoy-tv.m3u8
 python3 jamuna-tv.py > ../streams/jamuna-tv.m3u8
 python3 channel24.py > ../streams/channel24.m3u8
 python3 ekhon-tv.py > ../streams/ekhon-tv.m3u8
+python3 atn-news.py > ../streams/atn-news.m3u8
+python3 banglavision.py > ../streams/banglavision.m3u8
+python3 channel-i.py > ../streams/channel-i.m3u8
+python3 dbc-news.py > ../streams/dbc-news.m3u8
+python3 desh-tv.py > ../streams/desh-tv.m3u8
+python3 ekattor-tv.py > ../streams/ekattor-tv.m3u8
+python3 independent.py > ../streams/independent.m3u8
+python3 news24.py > ../streams/news24.m3u8
+python3 nexus-tv.py > ../streams/nexus-tv.m3u8
+python3 ntv.py > ../streams/ntv.m3u8
+python3 rtv.py > ../streams/rtv.m3u8
+python3 sa-tv.py > ../streams/sa-tv.m3u8
 echo m3u8 grabbed
