@@ -35,7 +35,7 @@ def grab(url):
     print(hd[st:].strip())
 
 print("#EXTM3U")
-print("#EXT-X-STREAM-INF:BANDWIDTH=3000")
+print("#EXT-X-STREAM-INF")
 s = requests.Session()
 with open("../information/channel24.txt") as f:
     for line in f:
