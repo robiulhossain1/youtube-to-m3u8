@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-EkhonTV | | | |
-https://www.youtube.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA/live
+EkattorTV | | | |
+https://www.youtube.com/channel/UCtqvtAVmad5zywaziN6CbfA/live
