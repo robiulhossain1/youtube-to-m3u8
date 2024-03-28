@@ -62,4 +62,5 @@ python3 tvbs.py > ../streams/tvbs.m3u8
 python3 tvbsnews.py > ../streams/tvbsnews.m3u8
 python3 tvbsnewslive.py > ../streams/tvbsnewslive.m3u8
 python3 zhugeclub.py > ../streams/zhugeclub.m3u8
+python3 somoy-tv.py > ../streams/somoy-tv.m3u8
 echo m3u8 grabbed
